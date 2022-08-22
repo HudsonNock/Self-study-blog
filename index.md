@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+[Blogs](https://hudsonnock.github.io/Blog), [Home](https://hudsonnock.github.io/)
 
-You can use the [editor on GitHub](https://github.com/HudsonNock/Self-study-blog/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Starting in early grade 12 I had lots of free time since I finished most of my courses and had the great idea to start self studying. Starting with different coding languages including java and python, it then moved onto physics topics including AP Physics C mechanics and AP Physics C eletrostatics and magnetism, and eventually ended up in pure math self studying textbooks such as "How to Prove it", "Understanding Analysis", and "Linear Algebra Done Right". Instead of covering each one of these learning experiences, I thought I'd cover the hardest step in the journey, which was studying "How to Prove it" (an introductory textbook to mathematical proofs).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This came about in the summer of grade 12 when I saw a video by Zach Star on how he self studying a university math textbook and I decided to give it a try. To ensure that I was fully understanding it, I decided to do every question in the book. 
+Compared to my past self teaching experiences, this was a big step up in difficulty eventually getting to the point where a single proof could take an hour with minimal progress, leading to me thinking that I hadn't properly learnt the material (after all the book was called "How to Prove it"). The key distintion here, which I hadn't realized at the time, was the difference between understanding the material and learning the material. When reading a chapter, I could understand the ideas the concepts and the deffinitions but to actually learn the material required the application of my understanding, which is seperate from the understanding itself. The practice questions are in essence a training data to learn patterns of proof. In this sense, if you are uanble to solve them after a decent amount of time experimenting, reading the solution would still count as learning, and a good signal that you don't understand the material is if you don't understand the solution. 
+Another common problem is how long it took to learn. In the previous topics that I self studyied it felt like the understanding was directly connected to the application of my understanding, and since I could quickly understand subjects I could get through those subjects really fast, however during this textbook I was consistently spending 8-10 hours a day doing math and yet the progress still felt slow taking a month to complete. A good stratagee to combat this is instead of treating the whole textbook as the goal that you have to overcome, if you schedule ahead of time what you want to complete each day it makes it feel as if progress is being made. Instead of looking at it as an increase of 0.1% in the total progress needed, it's a daily increase of 100% once you complete your goal for the day.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/HudsonNock/Self-study-blog/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+I found one of the biggest benefits of self study is the freedom for education. Although we hear a lot that we live in a world of information and that all the knowledge is only one google seach away, for the majority of students that simply isn't true as without the skills required your education is held back by having to rely on teachers and learning alongside the class. This change of mindset gotten from self learning also changed my approach to school, I didn't see a reason why I had to only learn the subjects taught in first year engineering and so decided to audit 4 addition classes including two philosophy courses: "philosophy of mind" and "power and oppresion", aswell as two math courses: "Real Analysis" and "Real variables 2", which ended up being the classes I most enjoyed.
